@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consultant&lt;t0/&gt;: Will Ansell</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T200349Z" creationid="blackhole-47" creationdate="20230816T200349Z">
+        <seg>Консультант&lt;t0/&gt;: Уилл Анселл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Corpses.</seg>
       </tuv>
       <tuv lang="ru" changedate="20230222T190030Z" creationdate="20230222T190030Z">
@@ -370,6 +378,22 @@
       </tuv>
       <tuv lang="ru" changedate="20230222T185935Z" creationdate="20230222T185935Z">
         <seg>Кинжал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Designer&lt;t0/&gt;: Chris Lindsay</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T200339Z" creationid="blackhole-47" creationdate="20230816T200339Z">
+        <seg>Дизайнер&lt;t0/&gt;: Крис Линдси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing&lt;t0/&gt;: Chris Lindsay</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T200353Z" creationid="blackhole-47" creationdate="20230816T200353Z">
+        <seg>Монтаж&lt;t0/&gt;: Крис Линдси</seg>
       </tuv>
     </tu>
     <tu>
