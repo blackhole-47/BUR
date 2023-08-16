@@ -4,6 +4,766 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>1 (-5)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>1 (-5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1-10</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190255Z" creationdate="20230222T190255Z">
+        <seg>1–10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185829Z" creationdate="20230222T185829Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>10 (+0)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>10 (+0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>11 (+0)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185931Z" creationdate="20230222T185931Z">
+        <seg>11 (+0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>12 (+1)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>12 (+1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>14 (+2)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185931Z" creationdate="20230222T185931Z">
+        <seg>14 (+2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>15 (+2)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185930Z" creationdate="20230222T185930Z">
+        <seg>15 (+2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16 (+3)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>16 (+3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16-20</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190250Z" creationdate="20230222T190250Z">
+        <seg>16–20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>18 (+4)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>18 (+4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2 (-4)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>2 (-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185829Z" creationdate="20230222T185829Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 (+5)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185919Z" creationdate="20230222T185919Z">
+        <seg>20 (+5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>21 (+5)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190006Z" creationdate="20230222T190006Z">
+        <seg>21 (+5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>22 (+6)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>22 (+6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>23 (+6)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185939Z" creationdate="20230222T185939Z">
+        <seg>23 (+6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185637Z" creationdate="20230222T185637Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185637Z" creationdate="20230222T185637Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 (-4)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>3 (-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185829Z" creationdate="20230222T185829Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185634Z" creationdate="20230222T185634Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185830Z" creationdate="20230222T185830Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185830Z" creationdate="20230222T185830Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>6 (-2)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>6 (-2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185845Z" creationdate="20230222T185845Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8 (-1)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>8 (-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9 (-1)</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190052Z" creationdate="20230222T190052Z">
+        <seg>9 (-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Dreams of the Red Wizards Adventure</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T150221Z" creationid="blackhole-47" creationdate="20230816T150221Z">
+        <seg>Приключение «Сны красных волшебников»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185640Z" creationdate="20230222T185640Z">
+        <seg>Действия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjective</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185651Z" creationdate="20230222T185651Z">
+        <seg>Прилагательное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After this time, these rot grubs are too far under the skin to be burned.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>После этого трупная личинка находится слишком глубоко под кожей существа, чтобы её можно было сжечь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Amphibious.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185937Z" creationdate="20230222T185937Z">
+        <seg>Амфибия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any effect that cures disease kills all rot grubs infesting the target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Любой эффект, который излечивает болезнь, убивает всех трупных личинок, заразивших цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying fire to the bite wound before the end of the target’s next turn deals 1 fire damage to the target and kills these rot grubs.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Воздействуя огнём на рану в месте укуса до конца следующего хода наносит цели 1 урон огнём и убивает этих личинок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185637Z" creationdate="20230222T185637Z">
+        <seg>Предыстория</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bite.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185938Z" creationdate="20230222T185938Z">
+        <seg>Укус.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breaking Umberlee’s Resolve</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T150218Z" creationid="blackhole-47" creationdate="20230816T150218Z">
+        <seg>Нарушение решимости Амберли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Claw.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190000Z" creationdate="20230222T190000Z">
+        <seg>Клешня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Claws.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Когти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185703Z" creationdate="20230222T185703Z">
+        <seg>Заключение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corpses.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190030Z" creationdate="20230222T190030Z">
+        <seg>Тела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dagger.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185935Z" creationdate="20230222T185935Z">
+        <seg>Кинжал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>False Appearance.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185930Z" creationdate="20230222T185930Z">
+        <seg>Обманчивая внешность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 13 (2d8 + 4) bludgeoning damage.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190123Z" creationdate="20230222T190123Z">
+        <seg>Попадание: 13 (2к8 + 4) дробящего урона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 3 (1d4 + 1) piercing damage.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185945Z" creationdate="20230222T185945Z">
+        <seg>Попадание: 3 (1к4 + 1) колющего урона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 6 (1d4 + 4) piercing damage.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185938Z" creationdate="20230222T185938Z">
+        <seg>Попадание: 6 (1к4 + 4) колющего урона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 6 (1d8 + 2) piercing damage.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190020Z" creationdate="20230222T190020Z">
+        <seg>Попадание: 6 (1к8 + 2) колющего урона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 8 (1d8 + 4) piercing damage.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230315T084204Z" creationdate="20230309T150711Z">
+        <seg>Попадание: 8 (1к8 + 4) колющего урона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230314T064854Z" creationdate="20230222T190011Z">
+        <seg>Попадание: 8 (1к8 + 4) рубящего урона или 9 (1к10 + 4) рубящего урона, если используется двумя руками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Innate Spellcasting.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185921Z" creationdate="20230222T185921Z">
+        <seg>Врожденное Заклинательство.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can innately cast the following spells, requiring no material components:</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185740Z" creationdate="20230222T185740Z">
+        <seg>Он может накладывать следующие заклинания, не нуждаясь в материальных компонентах:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lair Actions</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185857Z" creationdate="20230222T185857Z">
+        <seg>Действия в логове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Large swarm of Tiny beasts, chaotic evil</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Большой рой крошечных Зверей, хаотично-злой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lighting.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190040Z" creationdate="20230222T190040Z">
+        <seg>Освещение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Longbow.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190007Z" creationdate="20230222T190007Z">
+        <seg>Длинный лук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Longsword.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190007Z" creationdate="20230222T190007Z">
+        <seg>Длинный меч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium aberration, chaotic evil</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185736Z" creationdate="20230222T185736Z">
+        <seg>Средняя аберрация, хаотично-злая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium humanoid (any race), any alignment</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185724Z" creationdate="20230222T185724Z">
+        <seg>Средний гуманоид (любая раса), любое мировоззрение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium swarm of Tiny beasts, unaligned</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Средний рой крошечных зверей, без мировоззрения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium undead, lawful evil</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Средняя нежить, законно-злая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +2 to hit, reach 5 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185945Z" creationdate="20230222T185945Z">
+        <seg>Рукопашная атака оружием: +2 к попаданию, досягаемость 5 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190027Z" creationdate="20230222T190027Z">
+        <seg>Рукопашная атака оружием: +3 к попаданию, досягаемость 5 фт., одно существо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +3 to hit, reach 5 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185950Z" creationdate="20230222T185950Z">
+        <seg>Рукопашная атака оружием: +3 к попаданию, досягаемость 5 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +5 to hit, reach 10 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190026Z" creationdate="20230222T190026Z">
+        <seg>Рукопашная атака оружием: +5 к попаданию, досягаемость 10 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +6 to hit, reach 5 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185945Z" creationdate="20230222T185945Z">
+        <seg>Рукопашная атака оружием: +6 к попаданию, досягаемость 5 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +7 to hit, reach 5 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190014Z" creationdate="20230222T190014Z">
+        <seg>Рукопашная атака оружием: +7 к попаданию, досягаемость 5 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Melee Weapon Attack: +9 to hit, reach 5 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185945Z" creationdate="20230222T185945Z">
+        <seg>Рукопашная атака оружием: +9 к попаданию, досягаемость 5 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mimicry.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185938Z" creationdate="20230222T185938Z">
+        <seg>Подражание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiattack.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185924Z" creationdate="20230222T185924Z">
+        <seg>Мультиатака.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Noun</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185651Z" creationdate="20230222T185651Z">
+        <seg>Существительное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objective</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230316T203318Z" creationdate="20230316T203315Z">
+        <seg>Задача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quarterstaff.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190126Z" creationdate="20230222T190126Z">
+        <seg>Боевой посох.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190007Z" creationdate="20230222T190007Z">
+        <seg>Дальнобойная атака оружием: +5 к попаданию, дистанция 150/600 фт., одна цель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rapier.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190030Z" creationdate="20230222T190030Z">
+        <seg>Рапира.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reactions</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185725Z" creationdate="20230222T185725Z">
+        <seg>Реакции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regional Effects</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185857Z" creationdate="20230222T185857Z">
+        <seg>Региональные эффекты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sahuagin Hatchling Swarm</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185743Z" creationdate="20230222T185743Z">
+        <seg>Рой детёнышей сахуагинов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Salty</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185651Z" creationdate="20230222T185651Z">
+        <seg>Соленый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scimitar.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185938Z" creationdate="20230222T185938Z">
+        <seg>Скимитар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shark</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185651Z" creationdate="20230222T185651Z">
+        <seg>Акула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Siren</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190126Z" creationdate="20230222T190126Z">
+        <seg>Сирена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slam.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185930Z" creationdate="20230222T185930Z">
+        <seg>Размашистый удар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellcasting.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185934Z" creationdate="20230222T185934Z">
+        <seg>Использование заклинаний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spider Climb.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190006Z" creationdate="20230222T190006Z">
+        <seg>Паучье лазание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stench of Death.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190250Z" creationdate="20230222T190250Z">
+        <seg>Смертная вонь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swarm of Rot Grubs</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185726Z" creationdate="20230222T185726Z">
+        <seg>Рой трупных личинок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swarm.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185938Z" creationdate="20230222T185938Z">
+        <seg>Рой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tentacle.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190009Z" creationdate="20230222T190009Z">
+        <seg>Щупальце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tentacles.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185950Z" creationdate="20230222T185950Z">
+        <seg>Щупальца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T150229Z" creationid="blackhole-47" creationdate="20230816T150229Z">
+        <seg>Поиск пропавшей молодой женщины начинает коварное путешествие по морю падших звезд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The swarm can’t regain hit points or gain temporary hit points.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185726Z" creationdate="20230222T185726Z">
+        <seg>Рой не может восстанавливать хиты или получать временные хиты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Water Breathing.</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230315T074411Z" creationdate="20230308T183447Z">
+        <seg>Подводное дыхание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wondrous item, rare</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T190121Z" creationdate="20230222T190121Z">
+        <seg>Чудесный предмет, редкий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>•</seg>
+      </tuv>
+      <tuv lang="ru" changedate="20230222T185722Z" creationdate="20230222T185722Z">
+        <seg>•</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
