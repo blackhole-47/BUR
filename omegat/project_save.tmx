@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bonus Objectives</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203610Z" creationid="stivie" creationdate="20230816T203610Z">
+        <seg>Бонусные цели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breaking Umberlee’s Resolve</seg>
       </tuv>
       <tuv lang="ru" changeid="blackhole-47" changedate="20230816T150218Z" creationid="blackhole-47" creationdate="20230816T150218Z">
@@ -410,6 +418,22 @@
       </tuv>
       <tuv lang="ru" changeid="blackhole-47" changedate="20230816T200353Z" creationid="blackhole-47" creationdate="20230816T200353Z">
         <seg>Монтаж&lt;t0/&gt;: Крис Линдси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Episode 1: &lt;t0/&gt;Bread and Salt.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203359Z" creationid="stivie" creationdate="20230816T203359Z">
+        <seg>Эпизод 1: &lt;T0\/&gt; Хлеб и соль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Episode 2: &lt;t0/&gt;Between Sea and Sky.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203437Z" creationid="stivie" creationdate="20230816T203437Z">
+        <seg>Эпизод 2: &lt;T0\/&gt; Между морем и небом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The characters arrive in the Turmish coastal village, Ayakar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203409Z" creationid="stivie" creationdate="20230816T203409Z">
+        <seg>Персонажи прибывают в Турмисскую прибрежную деревню, Аякар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The characters set sail on the Sea of Fallen Stars.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203444Z" creationid="stivie" creationdate="20230816T203444Z">
+        <seg>Персонажи отправляются в плавание по Морю Упавших Звезд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars.</seg>
       </tuv>
       <tuv lang="ru" changeid="blackhole-47" changedate="20230816T150229Z" creationid="blackhole-47" creationdate="20230816T150229Z">
@@ -818,6 +858,38 @@
       </tuv>
       <tuv lang="ru" changedate="20230222T185726Z" creationdate="20230222T185726Z">
         <seg>Рой не может восстанавливать хиты или получать временные хиты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They learn about life on the sea and must prove their mettle.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203459Z" creationid="stivie" creationdate="20230816T203459Z">
+        <seg>Они узнают о жизни на море и должны доказать, чего стоят.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is Main Objective A.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203510Z" creationid="stivie" creationdate="20230816T203510Z">
+        <seg>Это главная цель А.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is Main Objective B.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203606Z" creationid="stivie" creationdate="20230816T203606Z">
+        <seg>Это основная цель B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the Call to Action.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203352Z" creationid="stivie" creationdate="20230816T203352Z">
+        <seg>Это призыв к действию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,10 +910,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While visiting the seaside bazaar, they are approached by an agent of the Deryan family — a disguised djinni named Mazhar— who hires t&lt;t1/&gt;hem to find the missing Zehira Deryan.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203425Z" creationid="stivie" creationdate="20230816T203425Z">
+        <seg>Во время посещения приморского базара к ним подходит агент семьи Дерьян — переодетый джинн по имени Мазхар, — который нанимает его, чтобы найти пропавшую Зехиру Дерьян.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wondrous item, rare</seg>
       </tuv>
       <tuv lang="ru" changedate="20230222T190121Z" creationdate="20230222T190121Z">
         <seg>Чудесный предмет, редкий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zehira is alive but held hostage in morkoth Axar Xyrl’s lair.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203602Z" creationid="stivie" creationdate="20230816T203602Z">
+        <seg>Зехира жива, но находится в заложниках в логове моркота Аксара Ксерла.</seg>
       </tuv>
     </tu>
     <tu>
