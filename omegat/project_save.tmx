@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lead Designer&lt;t0/&gt;: Ashley Warren</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T200323Z" creationid="blackhole-47" creationdate="20230816T200323Z">
+        <seg>Ведущий дизайнер &lt;t0\/&gt;: Эшли Уоррен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lighting.</seg>
       </tuv>
       <tuv lang="ru" changedate="20230222T190040Z" creationdate="20230222T190040Z">
