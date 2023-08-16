@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>D&amp;D Adventurers League Administrators&lt;t0/&gt;: Alan Patrick, Amy Lynn Dzura, Claire Hoffman, Greg Marks, Lysa Chen, Travis Woodall</seg>
       </tuv>
-      <tuv lang="ru" changeid="stivie" changedate="20230816T202840Z" creationid="stivie" creationdate="20230816T202840Z">
-        <seg>Администраторы Лиги авантюристов D&amp;D&lt;t0/&gt;: Алан Патрик, Эми Линн Дзура, Клэр Хоффман, Грег Маркс, Лиза Чен, Трэвис Вудалл.</seg>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T203118Z" creationid="stivie" creationdate="20230816T202840Z">
+        <seg>Администраторы Лиги авантюристов D&amp;D&lt;t0/&gt;: Алан Патрик, Эми Линн Дзура, Клэр Хоффман, Грег Маркс, Лиза Чен, Трэвис Вудалл, Хрен с горы</seg>
       </tuv>
     </tu>
     <tu>
@@ -853,5 +853,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Breaking_Umberlee_s_Resolve.docx</prop>
+      <prop type="prev">D&amp;D Adve&lt;t0/&gt;nturers League Wizards Team&lt;t1/&gt;: Adam Lee, Ari Levitch, Bill Benham, Chris Lindsay, Mike Mearls</prop>
+      <prop type="next">Playtesters&lt;t0/&gt;: Will Ansell, Bill Benham, Ju&lt;t1/&gt;stin Donie, Sarah Keortge, Ari Levitch</prop>
+      <tuv lang="en">
+        <seg>D&amp;D Adventurers League Administrators&lt;t0/&gt;: Alan Patrick, Amy Lynn Dzura, Claire Hoffman, Greg Marks, Lysa Chen, Travis Woodall</seg>
+      </tuv>
+      <tuv lang="ru" changeid="blackhole-47" changedate="20230816T203146Z" creationid="blackhole-47" creationdate="20230816T203146Z">
+        <seg>Администраторы Лиги авантюристов D&amp;D&lt;t0/&gt;: Алан Патрик, Эми Линн Дзура, Клэр Хоффман, Грег Маркс, Лиза Чен, Трэвис Вудалл, Хрен с горы 2</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
