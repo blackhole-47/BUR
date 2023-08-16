@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D&amp;D Adventurers League Administrators&lt;t0/&gt;: Alan Patrick, Amy Lynn Dzura, Claire Hoffman, Greg Marks, Lysa Chen, Travis Woodall</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T202840Z" creationid="stivie" creationdate="20230816T202840Z">
+        <seg>Администраторы Лиги авантюристов D&amp;D&lt;t0/&gt;: Алан Патрик, Эми Линн Дзура, Клэр Хоффман, Грег Маркс, Лиза Чен, Трэвис Вудалл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dagger.</seg>
       </tuv>
       <tuv lang="ru" changedate="20230222T185935Z" creationdate="20230222T185935Z">
