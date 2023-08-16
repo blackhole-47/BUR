@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters discover a strange item behind a waterfall: a magma mephit who thinks he is an efreeti.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T204028Z" creationid="stivie" creationdate="20230816T204028Z">
+        <seg>Персонажи обнаруживают странный предмет за водопадом: магмовый мефит, который думает, что он ифрит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Claw.</seg>
       </tuv>
       <tuv lang="ru" changedate="20230222T190000Z" creationdate="20230222T190000Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ru" changedate="20230222T185935Z" creationdate="20230222T185935Z">
         <seg>Кинжал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on your time constraints, play style and environment, this adventure&lt;t0/&gt; takes approximately two to four hours to play.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T204054Z" creationid="stivie" creationdate="20230816T204054Z">
+        <seg>В зависимости от ваших временных ограничений, стиля игры и окружения это приключение&lt;t0/&gt; займет примерно от двух до четырех часов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="ru" changeid="stivie" changedate="20230816T203459Z" creationid="stivie" creationdate="20230816T203459Z">
         <seg>Они узнают о жизни на море и должны доказать, чего стоят.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bonus objective is found in Appendix 5.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T204034Z" creationid="stivie" creationdate="20230816T204034Z">
+        <seg>Эта бонусная цель находится в Приложении 5.</seg>
       </tuv>
     </tu>
     <tu>
