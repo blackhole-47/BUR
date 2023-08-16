@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bonus Objective A: &lt;t0/&gt;Blood, Sweat, and Tears.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203707Z" creationid="stivie" creationdate="20230816T203707Z">
+        <seg>Бонусная цель A: &lt;T0\/&gt; Кровь, пот и слезы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bonus Objective B: &lt;t0/&gt;Sm&lt;t1/&gt;oke and Mirrors.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="stivie" changedate="20230816T203915Z" creationid="stivie" creationdate="20230816T203915Z">
+        <seg>Бонусная цель A: &lt;T0\/&gt; Кровь, пот и слезы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bonus Objectives</seg>
       </tuv>
       <tuv lang="ru" changeid="stivie" changedate="20230816T203610Z" creationid="stivie" creationdate="20230816T203610Z">
